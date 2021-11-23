@@ -6,7 +6,7 @@
 
  <p align="left">
 <a href="https://twitter.com/harshalmaniya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshalmaniya2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshal maniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal maniya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshal-maniya-74459a120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal maniya" height="30" width="40" /></a>
 </p>
 
  <br/>
@@ -36,83 +36,83 @@ Languages, FrameWorks and Tools:
  <br/>
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87515%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 278 Contributions in the Year 2021
- > 
-> 📦 13.6 kB Used in GitHub's Storage 
- > 
+>
+> 📦 13.6 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 10 Public Repositories
+>
+> 🔑 8 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
-🌆 Daytime    99 commits     ███████████░░░░░░░░░░░░░░   45.83% 
-🌃 Evening    79 commits     █████████░░░░░░░░░░░░░░░░   36.57% 
+🌞 Morning    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.74%
+🌆 Daytime    99 commits     ███████████░░░░░░░░░░░░░░   45.83%
+🌃 Evening    79 commits     █████████░░░░░░░░░░░░░░░░   36.57%
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday       44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
-Tuesday      58 commits     ██████░░░░░░░░░░░░░░░░░░░   26.85% 
-Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
-Thursday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-Saturday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+Monday       44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37%
+Tuesday      58 commits     ██████░░░░░░░░░░░░░░░░░░░   26.85%
+Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.13%
+Thursday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
+Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.02%
+Saturday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35%
 Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.01% 
-SCSS                     1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   26.3% 
-Dart                     1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69% 
-HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+💬 Programming Languages:
+TypeScript               2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.01%
+SCSS                     1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   26.3%
+Dart                     1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69%
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
 JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  6 hrs 41 mins       █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  6 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in Dart**
 
 ```text
-Dart                     5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Dart                     5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25%
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png)
 
+Last Updated on 23/11/2021
 
- Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
  <br/>
