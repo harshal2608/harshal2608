@@ -36,15 +36,15 @@ Languages, FrameWorks and Tools:
  <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87515%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63717%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 282 Contributions in the Year 2021
  > 
-> 📦 13.6 kB Used in GitHub's Storage 
+> 📦 13.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,17 +81,17 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SCSS                     10 hrs 13 mins      ████████████░░░░░░░░░░░░░   50.9% 
-HTML                     6 hrs               ███████░░░░░░░░░░░░░░░░░░   29.95% 
-Dart                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
-JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+SCSS                     2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.88% 
+HTML                     2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   26.43% 
+JavaScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
+Dart                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8%
 
 🔥 Editors: 
-VS Code                  20 hrs 4 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 39 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  20 hrs 4 mins       █████████████████████████   100.0%
+Windows                  8 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
@@ -112,7 +112,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 
  <br/>
