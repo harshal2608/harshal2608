@@ -11,7 +11,7 @@
 
  <br/>
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **Node.js, Express.js and Solidity!**
 
 - 📫 How to reach me **harshalmaniya26@gmail.com**
 
