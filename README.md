@@ -13,10 +13,12 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js and Solidity!**
 
-- 📫 How to reach me **harshalmaniya26@gmail.com**
+- 📫 Reach me on: **harshalmaniya26@gmail.com**
 
- <br/>
+- Checkout my <a href="https://harshalmaniya.netlify.app/" target="blank"> Portfolio Site</a>
+- My <a href="https://harshalmaniya.netlify.app/assets/Harshal_CV.f2fb748a.pdf" target="blank"> Resume</a>
 
+  <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal2608&show_icons=true&theme=dark&count_private=true)
 
 ---
@@ -36,82 +38,82 @@ Languages, FrameWorks and Tools:
  <br/>
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 11 Contributions in the Year 2022
- > 
-> 📦 25.1 kB Used in GitHub's Storage 
- > 
+>
+> 📦 25.1 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 13 Public Repositories
+>
+> 🔑 7 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-🌆 Daytime    115 commits    ███████████░░░░░░░░░░░░░░   46.37% 
-🌃 Evening    89 commits     █████████░░░░░░░░░░░░░░░░   35.89% 
+🌞 Morning    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
+🌆 Daytime    115 commits    ███████████░░░░░░░░░░░░░░   46.37%
+🌃 Evening    89 commits     █████████░░░░░░░░░░░░░░░░   35.89%
 🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday       53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37% 
-Tuesday      70 commits     ███████░░░░░░░░░░░░░░░░░░   28.23% 
-Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Thursday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-Saturday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Monday       53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37%
+Tuesday      70 commits     ███████░░░░░░░░░░░░░░░░░░   28.23%
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
+Thursday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
+Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
+Saturday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73%
 Sunday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               12 hrs 5 mins       ████████████████████████░   96.54% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
+💬 Programming Languages:
+TypeScript               12 hrs 5 mins       ████████████████████████░   96.54%
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  12 hrs 31 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  12 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in Dart**
 
 ```text
-Dart                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Dart                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41%
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53%
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png)
 
+Last Updated on 10/01/2022
 
- Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
 
  <br/>
