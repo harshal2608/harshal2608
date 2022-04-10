@@ -38,7 +38,7 @@ Languages, FrameWorks and Tools:
  <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327%20Thousand%20lines%20of%20code-blue)
 
@@ -46,7 +46,7 @@ Languages, FrameWorks and Tools:
 
 > 🏆 94 Contributions in the Year 2022
  > 
-> 📦 31.9 kB Used in GitHub's Storage 
+> 📦 32.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,17 +83,17 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               22 hrs 30 mins      ███████████████████░░░░░░   78.37% 
-CSS                      3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
-SCSS                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.37% 
-HTML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
-Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+TypeScript               22 hrs 30 mins      ██████████████████░░░░░░░   72.03% 
+SCSS                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
+CSS                      3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+HTML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
 
 🔥 Editors: 
-VS Code                  28 hrs 43 mins      █████████████████████████   100.0%
+VS Code                  31 hrs 14 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  28 hrs 43 mins      █████████████████████████   100.0%
+Windows                  31 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/04/2022 18:47:37 UTC
+ Last Updated on 10/04/2022 18:48:27 UTC
 <!--END_SECTION:waka-->
 
  <br/>
