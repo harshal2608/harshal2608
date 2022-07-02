@@ -40,7 +40,7 @@ Languages, FrameWorks and Tools:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327%20Thousand%20lines%20of%20code-blue)
 
@@ -85,17 +85,16 @@ Sunday       24 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               29 hrs 40 mins      ████████████████████████░   97.62% 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+TypeScript               22 hrs 29 mins      ████████████████████████░   97.39% 
+CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  30 hrs 24 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 5 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  30 hrs 24 mins      █████████████████████████   100.0%
+Windows                  23 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +115,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 18:52:56 UTC
+ Last Updated on 02/07/2022 18:46:19 UTC
 <!--END_SECTION:waka-->
 
  <br/>
