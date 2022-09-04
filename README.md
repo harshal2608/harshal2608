@@ -38,7 +38,7 @@ Languages, FrameWorks and Tools:
  <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -48,7 +48,7 @@ Languages, FrameWorks and Tools:
 
 > 🏆 97 Contributions in the Year 2022
  > 
-> 📦 31.8 kB Used in GitHub's Storage 
+> 📦 31.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -56,49 +56,6 @@ Languages, FrameWorks and Tools:
  > 
 > 🔑 11 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-🌆 Daytime    107 commits    ████████████░░░░░░░░░░░░░   48.64% 
-🌃 Evening    72 commits     ████████░░░░░░░░░░░░░░░░░   32.73% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       54 commits     ██████░░░░░░░░░░░░░░░░░░░   24.55% 
-Tuesday      51 commits     █████░░░░░░░░░░░░░░░░░░░░   23.18% 
-Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Sunday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               31 hrs 41 mins      ████████████████████████░   97.52% 
-CSS                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-🔥 Editors: 
-VS Code                  32 hrs 30 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  32 hrs 30 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -116,7 +73,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:49:06 UTC
+ Last Updated on 04/09/2022 18:51:15 UTC
 <!--END_SECTION:waka-->
 
  <br/>
