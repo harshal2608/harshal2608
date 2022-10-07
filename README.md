@@ -38,15 +38,15 @@ Languages, FrameWorks and Tools:
  <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C269%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C273%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 97 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 31.9 kB Used in GitHub's Storage 
  > 
@@ -85,17 +85,17 @@ Sunday       18 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               29 hrs 38 mins      ████████████████████████░   98.15% 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+TypeScript               25 hrs 24 mins      ████████████████████████░   96.17% 
+JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-VS Code                  30 hrs 11 mins      █████████████████████████   100.0%
+VS Code                  26 hrs 25 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  30 hrs 11 mins      █████████████████████████   100.0%
+Windows                  26 hrs 25 mins      █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +116,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/harshal2608/harshal2608/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2022 19:03:22 UTC
+ Last Updated on 07/10/2022 19:00:06 UTC
 <!--END_SECTION:waka-->
 
  <br/>
